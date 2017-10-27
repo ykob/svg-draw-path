@@ -1,2 +1,2 @@
-# svg-draq-path
+# svg-draw-path
 Drawing line animation with SVG.
